@@ -6,6 +6,7 @@
 #### *Always interested in programming, and new technologies that appear every day.*
 ### My skills: 
 #### I know HTML, CSS, JS, React JS and Python.
+### Code example:
 ```
  <div class="container">
         <div class="waxomis">
