@@ -2,6 +2,7 @@
 #### My contacts: 
 ##### 1. Phone: +996702640375
 ##### 2. E-mail: Sharsheev.nursultan@gmail.com
+#### About me:
 #### *Always interested in programming, and new technologies that appear every day.*
 ### My skills: 
 #### I know HTML, CSS, JS, React JS and Python.
